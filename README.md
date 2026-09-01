@@ -17,6 +17,11 @@ Na plataforma, é possível:
 - Explorar histórias publicadas por diferentes autores
 - Publicar suas próprias histórias e capítulos, para quem deseja ser autor
 - Encontrar novas leituras de acordo com o interesse do leitor
+- Possui menu de acessibilidade
+
+<p align="center">
+  <img src="./img/PagInicial.jpg" width="100%" alt="Tela inicial" />
+</p>
 
 <br>
 
